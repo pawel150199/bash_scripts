@@ -1,4 +1,8 @@
 #!/bin/bash
+
+#access_list 
+#show you a info about file access list  which you give to input variable
+
 #clear
 #sprawdza liczbe argumentów
 if [  "$#" -lt 2 ] || [  "$#" -gt  4 ];
