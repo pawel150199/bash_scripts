@@ -1,6 +1,9 @@
 #!/bin/bash
+
+#add_user
+#add user without knowledge about bash command in simple way. You must write some information about user that you want create and click enter and this is end.
 #clear
-#W celu poprawnego działania skryptu i dodania uzytkowników należy uruchomić go jako root
+#w celu poprawnego działania skryptu i dodania uzytkowników należy uruchomić go jako root
 
 if ! ([ "$1" = "bash" ] || [ "$1" = "zsh" ] || [ "$1" = "sh" ]); then
 	echo "nieprawidłowa powłoka"
