@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #connect_files
-#make new files from 2 other files which you must give to input variable.
+#skrypt tworzy nowy plik z dwóch innych plików podanych jako parametry wejściowe.
 
 #sprawdza czy liczba parametrów jest poprawna
 if [ "$#" -lt 2 ];

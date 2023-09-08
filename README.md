@@ -1,2 +1,4 @@
 # Bash scripts
-basic bash for `Operating System` labs
+Basic bash for `Operating Systems` labs
+
+Those scripts was developing on Operating Systems lessons at my university.
