@@ -1,5 +1,7 @@
 #!/bin/bash
-#clear
+
+#connect_files
+#make new files from 2 other files which you must give to input variable.
 
 #sprawdza czy liczba parametrów jest poprawna
 if [ "$#" -lt 2 ];
