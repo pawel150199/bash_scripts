@@ -1,5 +1,7 @@
 #!/bin/bash
-#clear
+
+#stuff_info
+#this script show you a some informations about files in your computer. Shows info how much is files, directory, hard ans soft link.
 
 #sprawdza liczbe argumentów
 if [  "$#" -lt 1 ] || [  "$#" -gt  3 ];
